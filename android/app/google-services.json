@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977183756229",
+    "project_id": "loginregistauth-51dd5",
+    "storage_bucket": "loginregistauth-51dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977183756229:android:27ed92ea319592a81ec5ac",
+        "android_client_info": {
+          "package_name": "com.example.login_register_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmeX0QThGbLpAxUi3Khm53016TRua2w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -17,7 +17,7 @@ class ServiceCard extends StatelessWidget {
           context,
           MaterialPageRoute(
             builder: (BuildContext context) {
-              return DrugCategories();
+              return category.targetPage;
             },
           ),
         );
@@ -40,9 +40,11 @@ class ServiceCard extends StatelessWidget {
           children: [
             Align(
               alignment: Alignment.topRight,
-              child: Image.asset(
-                category.icon,
-                height: kCategoryCardImageSize,
+              child: Center(
+                child: Image.asset(
+                  category.icon,
+                  height: kCategoryCardImageSize,
+                ),
               ),
             ),
             SizedBox(

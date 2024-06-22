@@ -125,10 +125,10 @@ class _HomepageState extends State<Homepage> {
                           shrinkWrap: true,
                           itemCount: categoryList.length,
                           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                            crossAxisCount: 3,
-                            childAspectRatio: 0.8,
-                            crossAxisSpacing: 20,
-                            mainAxisSpacing: 30,
+                            crossAxisCount: 2,
+                            childAspectRatio: 1.2,
+                            crossAxisSpacing: 30,
+                            mainAxisSpacing: 35,
                           ),
                           itemBuilder: (context, index) {
                             return ServiceCard(

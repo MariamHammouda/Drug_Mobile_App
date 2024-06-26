@@ -7,6 +7,7 @@ import 'package:login_register_auth/auth/register.dart';
 import 'package:login_register_auth/components/custom_button.dart';
 import 'package:login_register_auth/components/custom_logo_auth.dart';
 import 'package:login_register_auth/components/custom_text_title.dart';
+import 'package:login_register_auth/homepade.dart';
 
 class Login extends StatefulWidget {
   const Login({super.key});
@@ -119,7 +120,16 @@ class _LoginState extends State<Login> {
             ),
             CustomButton(
               titleButton: "Login",
-              onPressed: (() => signIn()),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (BuildContext context) {
+                      return Homepage();
+                    },
+                  ),
+                );
+              },
             ),
             const SizedBox(
               height: 25,

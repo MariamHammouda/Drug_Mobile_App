@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:login_register_auth/components/category.dart';
 import 'package:login_register_auth/components/custom_service_card.dart';
+import 'package:login_register_auth/loginpage.dart';
 
 class Homepage extends StatefulWidget {
   const Homepage({super.key});
@@ -143,7 +144,18 @@ class _HomepageState extends State<Homepage> {
                           mainAxisAlignment: MainAxisAlignment.end,
                           children: [
                             FloatingActionButton(
-                              onPressed: (() => signout()),
+                              onPressed: () {
+                                {
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (BuildContext context) {
+                                        return Login();
+                                      },
+                                    ),
+                                  );
+                                }
+                              },
                               child: Icon(
                                 Icons.login_rounded,
                                 color: Colors.white,

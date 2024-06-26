@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:login_register_auth/components/category.dart';
 import 'package:login_register_auth/pages/drug_categories_page.dart';
 
-const kCategoryCardImageSize = 100.0;
+const kCategoryCardImageSize = 85.0;
 
 class ServiceCard extends StatelessWidget {
   final Category category;

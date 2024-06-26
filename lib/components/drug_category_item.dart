@@ -36,7 +36,7 @@ class DrugCategory extends StatelessWidget {
               ),
               Text(
                 categorydrug.name,
-                style: TextStyle(color: Colors.black, fontSize: 16.8),
+                style: TextStyle(color: Colors.black, fontSize: 15.5),
               ),
               Spacer(
                 flex: 1,

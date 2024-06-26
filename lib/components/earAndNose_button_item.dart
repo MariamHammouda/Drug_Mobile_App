@@ -31,7 +31,7 @@ class EarNoseButton extends StatelessWidget {
               ),
               Text(
                 drugGroupName!,
-                style: TextStyle(color: Colors.black, fontSize: 15.2),
+                style: TextStyle(color: Colors.black, fontSize: 14),
               ),
               Spacer(
                 flex: 1,

@@ -28,9 +28,9 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
 ![Drugs Screen](drugs_screen-rem.png)
 ![Drug Details](drug_info_screen.png)
 ![Reference Screen](reference_screen.png)
-![Add Drug Screen](add_drug_screen.png)
 ![Prescription Screen](Presentation_screen.png)
 ![Submitted Prescription Screen](submited_presentation_screen.png)
-![Sumbited Prescription Screen](link-to-screenshot)
+![Add Drug Screen](add_drug_screen.png)
+
 
 

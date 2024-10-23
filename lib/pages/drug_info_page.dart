@@ -99,7 +99,7 @@ class _DrugInfoState extends State<DrugInfo> {
                     height: 15,
                   ),
                   Text(
-                    "Active Ingrdients :",
+                    "Active Ingredients :",
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
@@ -123,6 +123,43 @@ class _DrugInfoState extends State<DrugInfo> {
                   InfoRow(
                     title: "Dose : ",
                     info: "1x3",
+                  ),
+                  const SizedBox(
+                    height: 15,
+                  ),
+                  Text(
+                    "Medical Description:",
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  Text(
+                    "An antibiotic belonging to the Fluoroquinolone group used to treat bacterial conjunctivitis.",
+                    style: TextStyle(
+                      fontSize: 20,
+                      color: Colors.grey[700],
+                    ),
+                  ),
+                  const SizedBox(
+                    height: 15,
+                  ),
+                  Text(
+                    "Indication & Usage:",
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  Text(
+                    "- Bacterial Conjunctivitis:\n- Adults: Instill 1 drop into affected eye(s) 2-3 times daily for 7 days.\n- Pediatric (≥4 months, children, adolescents): Instill 1 drop into affected eye(s) 2 times daily for 7 days.",
+                    style: TextStyle(
+                      fontSize: 20,
+                      color: Colors.grey[700],
+                    ),
+                  ),
+                  const SizedBox(
+                    height: 15,
                   ),
                 ],
               ),

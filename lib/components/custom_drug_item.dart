@@ -8,6 +8,10 @@ class Drug extends StatelessWidget {
   final String drugInfo;
   final String drugImage;
 
+  get name => null;
+
+  get activeIngredient => null;
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(

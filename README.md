@@ -40,5 +40,5 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
 
 
 ## Demo video
-[Click here to watch the demo video](https://github.com/your-username/repo-name/blob/main/path-to-video.mp4)
+[Click here to watch the demo video]([https://github.com/your-username/repo-name/blob/main/path-to-video.mp4](https://youtu.be/6G6DE9BU098))
 

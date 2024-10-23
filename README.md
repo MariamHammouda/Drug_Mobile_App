@@ -1,16 +1,22 @@
-# login_register_auth
+# Drug Mobile App
 
-A new Flutter project.
+## Description
+This is a Flutter mobile application designed for doctors and pharmacists to manage drug information, prescriptions, and medical references.
+
+## Features
+- **Drugs**: Navigate through categories, search, and view detailed drug information.
+- **Reference**: Information and abbreviations for medical terms.
+- **Prescription**: Submit and delete prescriptions for patients.
+- **Add Drug**: Doctors can add new drugs to the database.
+- **User Registration**: Users can register and log in.
 
 ## Getting Started
+### Prerequisites
+- Flutter SDK
+- Dart
 
-This project is a starting point for a Flutter application.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MariamHammouda/Drug_Mobile_App.git
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

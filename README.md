@@ -21,15 +21,16 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
    git clone https://github.com/MariamHammouda/Drug_Mobile_App.git
 ## Screenshots
 ![Login Screen](login_screen.png)
-![Register Screen](link-to-screenshot)
-![Home Screen](link-to-screenshot)
-![Drug Category Screen](link-to-screenshot)
-![Drug Subategory Screen](link-to-screenshot)
-![Drugs Screen](link-to-screenshot)
-![Drug Details](link-to-screenshot)
-![Reference Screen](link-to-screenshot)
-![Add Drug Screen](link-to-screenshot)
-![Prescription Screen](link-to-screenshot)
+![Register Screen](register_screen.png)
+![Home Screen](home_seceen.png)
+![Drug Category Screen](categories_screen.png)
+![Drug Subategory Screen](subcategory_screen.png)
+![Drugs Screen](drugs_screen.png)
+![Drug Details](drug_info_screen.png)
+![Reference Screen](reference_screen.png)
+![Add Drug Screen](add_drug_screen.png)
+![Prescription Screen](Presentation_screen.png)
+![Submitted Prescription Screen](submited_presentation_screen.png)
 ![Sumbited Prescription Screen](link-to-screenshot)
 
 

@@ -25,7 +25,7 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
 ![Home Screen](home_seceen.png)
 ![Drug Category Screen](categories_screen.png)
 ![Drug Subategory Screen](subcategory_screen.png)
-![Drugs Screen](drugs_screen.png)
+![Drugs Screen](drugs_screen-rem.png)
 ![Drug Details](drug_info_screen.png)
 ![Reference Screen](reference_screen.png)
 ![Add Drug Screen](add_drug_screen.png)

@@ -9,11 +9,17 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
 - **Prescription**: Submit and delete prescriptions for patients.
 - **Add Drug**: Doctors can add new drugs to the database.
 - **User Registration**: Users can register and log in.
-
-## Getting Started
-### Prerequisites
-- Flutter SDK
+  
+## Tech Stack
+- Flutter
 - Dart
+- Firebase
+  
+## Future Features
+- Registration for doctors and patients.
+- Barcode scanning for drug search.
+- Notifications for prescriptions.
+
 
 ### Installation
 1. Clone the repository:
@@ -33,4 +39,6 @@ This is a Flutter mobile application designed for doctors and pharmacists to man
 ![Add Drug Screen](add_drug_screen.png)
 
 
+## Demo video
+[Click here to watch the demo video](https://github.com/your-username/repo-name/blob/main/path-to-video.mp4)
 
